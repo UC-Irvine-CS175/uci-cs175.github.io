@@ -29,20 +29,16 @@ Prerequisites: COMPSCI 171 and COMPSCI 178
 This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye and Jake Knapp's The Sprint. The course research workflow is inspired by the 2023 Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) SEARCH program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute. Course logo and artwork was contributed by Naomi Valentin and Jazmine Encarnacion respectively. Finally, this quarter's research challenge would not be possible without the contributions of the IEEE Image Analysis and Data Fusion Technical Committee (IADFTC) of the Geoscience and Remote Sensing Society (GRSS) who worked with the wider community to put together remote sensing challenges through their annuall Data Fusion contests.
 
 ### Lecture
-There are two sections for the course:
-- Lecture A: MW 3:30-4:50p [ALP 1600](https://classrooms.uci.edu/classroomtechnology/classrooms/alp/alp-1600)
-- Lecture B: W 5:30 - 8:20p [SH 174](https://classrooms.uci.edu/classroomtechnology/classrooms/sh/sh-174)
+- Lecture: W 5:00 - 7:50p [SSL 140](https://classrooms.uci.edu/classrooms/ssl/ssl-140/)
 
 Lecture time will introduce main concepts and techniques of machine learning, facilitation of a research design sprint, as well as cover domain knowledge necessary to get started. Consistent attendance is strongly recommended as you will get the opportunity to ask questions, interact with our scientific collaborator, and participate in group discussions. 
 
 Slides will be available online after each lecture with some latency to encourage attendance.
 
 ### Discussion
-There are two discussions per course section:
-- Discussion A1: M 11-11:50AM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
-- Discussion A2: M 12-12:50PM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
-- Discussion B1: W 11-11:50AM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
-- Discussion B2: W 12-12:50PM [PSCB 120](https://classrooms.uci.edu/classroomtechnology/classrooms/pscb/pscb-120)
+There are two discussions:
+- Discussion A1: M 12-12:50PM [ICS 180](https://classrooms.uci.edu/classroomtechnology/classrooms/ics/ics-180)
+- Discussion A2: M 12-12:50PM [ICS 180](https://classrooms.uci.edu/classroomtechnology/classrooms/ics/ics-180)
   
 Discussion sessions are focused on implementation and practice with tooling via assignments and troubleshooting specifics with respect to your project implementation.
 
@@ -55,18 +51,17 @@ Office hours are a great opportunity to get your questions answered with respect
 
 Course content will be linked from this website but there are additional platforms that you'll need to access:
 
-- **[Discord](https://discord.gg/d6Na6SzTRz):** We will be using Discord as our course message and discussion board.
+- **[Ed Discussion](https://edstem.org/us/courses/58012/discussion/4687791):** We will be using Ed Discussion as our course message and discussion board.
 
 - **[Canvas](https://canvas.eee.uci.edu/):** We will use Canvas to disseminate up to date information with respect to your grades. 
 
 - **[Github Classroom](https://classroom.github.com):** We will use Github classroom for assignments to help you build confidence for the final group project. The final project in this course will involve programming in Python and dexterity with deep learning frameworks like PyTorch and PyTorch Lightning. We will also be using github actions, a continuous integration tool.
 
 - **[Miro](https://miro.com/):** The whiteboard used in the project planning and design sprint phase.
-  - **[Section A: Miro](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**
-  - **[Section B: Miro](https://miro.com/app/board/uXjVN8kFKMc=/?share_link_id=828552320449)**
+  - **[Miro](https://miro.com/app/board/uXjVKYtv_PM=/?share_link_id=208407975776)**
 
 {: .warning }
-**Note that we will be using Canvas only as a gradebook this quarter. Please do not contact the staff through Canvas -- we will be focusing our attention on Discord**
+**Note that we will be using Canvas only as a gradebook this quarter. Please do not contact the staff through Canvas -- we will be focusing our attention on Ed Discussion**
 
 ## Student Learning Outcomes
 In addition to the course tools, we will use several different tools to develop our machine learning models.
@@ -79,13 +74,13 @@ In addition to the course tools, we will use several different tools to develop 
   
 - We will package and deploy our system.
   
-- We will set up a front-end using [Gradio](https://gradio.app/docs) or [Streamlit](https://streamlit.io/).
+- We will maintain project repositories using software engineering best practices.
   
 
 ## Communication
-This quarter we will be using Discord as our course message board. If you have a question about anything pertinent to the course, post it on the appropriate channel on Discord. We ask that you make your questions public to the class so that the other students may benefit from the interaction in addition to getting a chance to answer as well. Course staff will try to answer any questions you have regularly. 
+This quarter we will be using Ed as our course message board. If you have a question about anything pertinent to the course, post it with the appropriate category tag on Ed. We ask that you make your questions public to the class so that the other students may benefit from the interaction in addition to getting a chance to answer as well. Course staff will try to answer any questions you have regularly. 
 
-Please use Discord **instead of email**, since this will help keep all course communication in one place. Please do not send course staff questions about course content over email or social media--Discord is where to go!
+Please use Ed **instead of email**, since this will help keep all course communication in one place. Please do not send course staff questions about course content over email or social media--Ed is where to go!
 
 ## Suggested Reading
 Suggested reading will be linked with the corresponding lecture as we move through the course. To get the most out of it, we recommend reading it after lecture and before assignment submission.
@@ -103,13 +98,13 @@ Code reviews for each team will take place throughout the quarter. It is recomme
 Present midterm milestones that have been reached as well as refinement of the ML system components. At this stage, baseline models should be identified and prototyped in addition to the presentation of a team accountability and reporting policy.
 
 ### The Final Project
-For the final project, you can work in groups of 4 people maximum. In terms of time commitment, expect to take roughly **40 hours per person total**.
+For the final project, you can work in groups of 4 people maximum. In terms of time commitment, expect to take roughly **40-50 hours per person total**.
 
 Your final project will be graded based on several factors.
   * Repository - The repository must have the appropriate structure and documentation for reproducibility of the study.
   * Technical Memorandum - Final project paper (template to be linked)
   * Poster - A companion poster presentation
-  * Final Showcase Presentation - A short 5 min project presentation that will be recorded and open to the public March 18, 2024 from 4-6p PST for Section A and TBD for Section B.
+  * Final Showcase Presentation - A short 5 min project presentation that will be recorded and open to the public on TBD.
 
 ### Deadlines and Grace Days
 Life happens, we get it. Each student is allowed up to **3 "grace days"** to use towards their individual assignement and each team is allowed **4 "grace days"** to use towards their project deadlines. How you choose to distribute them is up to you but once you run out, and you still haven't submitted the assignment you will receive a zero for the assignment. Due to the time sensitivity of the task, design sprint exercises are not eligible for "grace day" usage. If you submit team project proposal, status report, or final project items late you and all team members will have to use grace days.
@@ -134,7 +129,7 @@ If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
-We will use a standard scale for assigning letter grades:
+We will use a standard scale for assigning letter grades (there are no exceptions to the following scale):
 
 | **Letter Grade** | A | A- | B+ | B | B- | C+ | C | C- | D | F |
 | **Percentage** | 93+ | 90+ | 87+ | 83+ | 80+ | 77+ | 73+ | 70+ | 60+ | below 60 |
