@@ -29,46 +29,29 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Dis A1
-        start: 11:00 AM
-        end: 11:50 AM
-      - name: Dis A2
-        start: 12:00 PM
-        end: 12:50 PM
-      - name: Lecture A
-        start: 3:30 PM
-        end: 4:50 PM
-        location: ALP 1600 
-      - name: NA OH
-        start: 5:00 PM
-        end: 7:00 PM
-        location: ALP
+      - name: Prof OH
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Java City
   - name: Tuesday
   - name: Wednesday
     events:
-      - name: Dis B1
-        start: 11:00 AM
-        end: 11:50 AM
-      - name: Dis B2
+      - name: Prof OH
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Java City
+      - name: Lecture
+        start: 5:00 PM
+        end: 7:50 PM
+        location: SSL 140
+  - name: Friday
+    events:
+      - name: Discussion
         start: 12:00 PM
         end: 12:50 PM
-      - name: ZZ OH
-        start: 1:00 PM
-        end: 3:00 PM
-        location: ICS Rm 458B
-      - name: Lecture A
-        start: 3:30 PM
-        end: 4:50 PM
-        location: ALP 1600 
-      - name: Lecture B
-        start: 5:30 PM
-        end: 8:20 PM
-        location: SH 174
-  - name: Thursday
-    events:
-      - name: JW OH
-        start: 8:00 AM
-        end: 10:00 AM
-        location: ICS Rm 458B
-  - name: Friday
+        location: ICS 180
+      - name: Discussion
+        start: 12:00 PM
+        end: 12:50 PM
+        location: ICS 180
 ---

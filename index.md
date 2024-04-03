@@ -14,11 +14,11 @@ Please start by reviewing the [syllabus](https://uc-irvine-cs175.github.io/uci-c
 
 **👩‍🏫 Instructor:** Nadia Ahmed
 
-**🕞 Time and Location:** There are two sections for the course:
-- Lecture A: MW 3:30-4:50p [ALP 1600](https://classrooms.uci.edu/classroomtechnology/classrooms/alp/alp-1600)
-- Lecture B: W 5:30 - 8:20p [SH 174](https://classrooms.uci.edu/classroomtechnology/classrooms/sh/sh-174)
+**🕞 Time and Location:**
+- Lecture: W 5:00 - 7:50p [SSL 140](https://classrooms.uci.edu/classrooms/ssl/ssl-140/)
+- Discussion: F 12,1p [ICS 180](https://classrooms.uci.edu/classroomtechnology/classrooms/ics/ics-180)
   
-**📲 Staff Contact:** The best way to reach the staff is by making posts on the [CS175 Discord Server](https://discord.gg/d6Na6SzTRz).
+**📲 Staff Contact:** The best way to reach the staff is by making posts on the [Ed Discussion](https://edstem.org/us/courses/58012/discussion/4687791).
 
 
 This course aims to enable students to construct a working artificial intelligence system and evaluate its capabilities, including the impact of knowledge representation on a real-world problem.
@@ -28,8 +28,7 @@ In this course offering, collaborating domain specialists from the open source c
 <b style='color: green'> 🛑 Prerequisites:</b> COMPSCI 171 and COMPSCI 178
 
 ## **🖍️ Miro Boards:**
-  - **[Section A: MW 3:30-4:50p](https://miro.com/app/board/uXjVN8kFK4I=/?share_link_id=120736279658)**
-  - **[Section B: W 5:30-8:20p](https://miro.com/app/board/uXjVN8kFKMc=/?share_link_id=828552320449)**
+  - **[Sprint Board](https://miro.com/app/board/uXjVKYtv_PM=/?share_link_id=222512272567)**
 
 ## 📆 Course Calendar
 {% for module in site.modules %}
