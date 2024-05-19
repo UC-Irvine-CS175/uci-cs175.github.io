@@ -1,6 +1,6 @@
 ---
 name: Max Rehm
-role: Teaching Assistant
+role: Course Tutor
 email: marehm@uci.edu
 photo: max.png
 ---
