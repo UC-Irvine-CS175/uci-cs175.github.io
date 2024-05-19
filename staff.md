@@ -34,8 +34,8 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 {{ staffer }}
 {% endfor %}
 {% endif %}
-## Domain Specialists / Collaborators
+<!-- ## Domain Specialists / Collaborators
 {% for staffer in domain_specialists %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->

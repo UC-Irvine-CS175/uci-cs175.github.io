@@ -1,6 +1,6 @@
 ---
 name: Drew Sypnieski
-role: Teaching Assistant
+role: Course Tutor
 email: asypnies@uci.edu
 photo: drew.png
 ---
