@@ -44,6 +44,12 @@ schedule:
         start: 5:00 PM
         end: 7:50 PM
         location: SSL 140
+  - name: Thursday
+    events:
+      - name: Course Tutor OH (Max)
+        start: 8:00 AM
+        end: 10:00 AM
+        location: Zoom (https://uci.zoom.us/my/mrehm)
   - name: Friday
     events:
       - name: Discussion
@@ -51,7 +57,7 @@ schedule:
         end: 12:50 PM
         location: ICS 180
       - name: Discussion
-        start: 12:00 PM
-        end: 12:50 PM
+        start: 1:00 PM
+        end: 1:50 PM
         location: ICS 180
 ---
