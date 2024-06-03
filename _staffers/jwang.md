@@ -1,6 +1,6 @@
 ---
 name: Junyao Wang 
-role: Teaching Assistant
+role: Teaching Assistantkmnk
 email: junyaow4@uci.edu
 photo: jwang.jpeg
 ---
