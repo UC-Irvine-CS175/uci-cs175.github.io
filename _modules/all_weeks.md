@@ -14,4 +14,4 @@ title: All Weeks
 | 8      | May 22 | [Semantic Segmentation](https://docs.google.com/presentation/d/1LkbgDG7l2s3LSlUZxQh8YHi_EDSnMwbQWsiGEEJHmz4/edit?usp=sharing) & [Self-supervised Techniques](https://docs.google.com/presentation/d/14ZxN91i1PxIpfmB9eZsEsRuhiVg-vKhBP9HGteSrRho/edit?usp=sharing) | **HW3: DUE May 24th 11:59p PST**{: .label .label-red}, **Final Project: Empty Repo OUT**, **Pull Request**{: .label .label-blue} |
 | 9      | May 29 | Team Focus Check-ins | **Pull Request**{: .label .label-blue} |
 | 10     | June 5 | Team Focus Check-ins | **Pull Request**{: .label .label-blue} |
-| FINALS | June TBD | FINAL SHOWCASE | **Poster by TBD in TBD**{: .label .label-red}, **Tech Memo due by TBD**{: .label .label-red} |
+| FINALS | June 12 7p-9p | FINAL SHOWCASE | **Poster loaded to screens 6:45p**{: .label .label-red}, **Pull Request 3**{: .label .label-red}, **Tech Memo due by June 13 11:59p**{: .label .label-red} |
