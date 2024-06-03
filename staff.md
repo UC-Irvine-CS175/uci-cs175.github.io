@@ -15,7 +15,7 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
+<!-- {% if num_teaching_assistants != 0 %} -->
 
 {% assign tutor = site.staffers | where: 'role', 'Course Tutor' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
@@ -34,8 +34,8 @@ Your friendly CS175 Teaching Staff is here to make sure you have a great experie
 {{ staffer }}
 {% endfor %}
 {% endif %}
-## Domain Specialists / Collaborators
+<!-- ## Domain Specialists / Collaborators
 {% for staffer in domain_specialists %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
