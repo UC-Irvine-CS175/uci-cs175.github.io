@@ -26,7 +26,7 @@ In this course offering, collaborating domain specialists from the open source c
 Prerequisites: COMPSCI 171 and COMPSCI 178
 
 ### Acknowledgements
-This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye and Jake Knapp's The Sprint. The course research workflow is inspired by the 2023 Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) SEARCH program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute. Course logo and artwork was contributed by Naomi Valentin and Jazmine Encarnacion respectively. Finally, this quarter's research challenge would not be possible without the contributions of the IEEE Image Analysis and Data Fusion Technical Committee (IADFTC) of the Geoscience and Remote Sensing Society (GRSS) who worked with the wider community to put together remote sensing challenges through their annuall Data Fusion contests.
+This course is adapted from UC Berkeley's CS194-080 Full Stack Deep Learning, created by Sergey Karayev, Josh Tobin, and Pieter Abbeel with recent contributions from Charles Frye and Jake Knapp's The Sprint. The course research workflow is inspired by the 2023 Heliophysics Inovation in Technology and Science Solar Dynamics Observatory (HITS-SDO) SEARCH program coordinated by Subhamoy Chatterjee and Andres Jaramillo-Munoz of Southwest Research Institute. Course logo and artwork was contributed by Naomi Valentin and Jazmine Encarnacion respectively. Finally, this quarter's research challenge would not be possible without the contributions of the IEEE Image Analysis and Data Fusion Technical Committee (IADFTC) of the Geoscience and Remote Sensing Society (GRSS) who worked with the wider community to put together remote sensing challenges through their annual Data Fusion contests.
 
 ### Lecture
 - Lecture: W 5:00 - 7:50p [SSL 140](https://classrooms.uci.edu/classrooms/ssl/ssl-140/)
@@ -58,7 +58,7 @@ Course content will be linked from this website but there are additional platfor
 - **[Github Classroom](https://classroom.github.com):** We will use Github classroom for assignments to help you build confidence for the final group project. The final project in this course will involve programming in Python and dexterity with deep learning frameworks like PyTorch and PyTorch Lightning. We will also be using github actions, a continuous integration tool.
 
 - **[Miro](https://miro.com/):** The whiteboard used in the project planning and design sprint phase.
-  - **[Miro](https://miro.com/app/board/uXjVKYtv_PM=/?share_link_id=208407975776)**
+  - **[Miro](link)**
 
 {: .warning }
 **Note that we will be using Canvas only as a gradebook this quarter. Please do not contact the staff through Canvas -- we will be focusing our attention on Ed Discussion**
